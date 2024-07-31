@@ -1,0 +1,5 @@
+{
+    "dockerfile" : "Dockerfile",
+    "image" : "gateway",
+    "version" : "0.0.1"
+}
